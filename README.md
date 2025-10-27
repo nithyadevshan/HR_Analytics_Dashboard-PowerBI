@@ -3,6 +3,7 @@
 Overview
 
 This project is a collaborative effort by a team of five software engineers to analyze and visualize HR data using Power BI. The dashboard provides actionable insights into workforce trends, helping HR teams make informed decisions.
+
 🔍 Key Features
 
 Workforce Pulse: Headcount, churn rate, promotion readiness, branch strength, age spread, tenure bands, academic mix, and role distribution.
