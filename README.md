@@ -40,7 +40,7 @@ Maintained by a team of five contributors. All members participated in data mode
 - Sneha Snigdha Mallick D
 - Chippa Vaishnavi
 - Nithyadevi S
-- Hemadharshini D
+- Hemadharshini M
 - Manyapuri Tejaswini
 
 
