@@ -25,7 +25,9 @@ Git & GitHub: For version control and team collaboration.
 🚀 Getting Started
 
 Clone the repository:
-Shellgit clone https://github.com/your-username/HR-Analytics-PowerBI.gitShow more lines
+Shellgit clone  [https://github.com/Sneha2330/HR_Analytics_Dashboard-PowerBI]
+
+Show more lines
 
 Open the .pbix file in Power BI Desktop.
 Connect to your HR dataset or use the sample data provided.
