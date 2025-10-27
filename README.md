@@ -37,6 +37,13 @@ Connect to your HR dataset or use the sample data provided.
 Maintained by a team of five contributors. All members participated in data modeling, dashboard design, and documentation. Future updates will include enhancements based on stakeholder feedback.
 
 
+- Sneha Snigdha Mallick D
+- Chippa Vaishnavi
+- Nithyadevi S
+- Hemadharshini D
+- Manyapuri Tejaswini
+
+
 📬 Contributions
 
 Feel free to fork the repo, raise issues, or submit pull requests. Collaboration is welcome!
