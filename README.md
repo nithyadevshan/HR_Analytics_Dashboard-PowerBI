@@ -34,4 +34,5 @@ Maintained by a team of five contributors. All members participated in data mode
 
 
 📬 Contributions
+
 Feel free to fork the repo, raise issues, or submit pull requests. Collaboration is welcome!
