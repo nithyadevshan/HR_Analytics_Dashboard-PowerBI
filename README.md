@@ -1,6 +1,7 @@
 📊 HR Analytics Dashboard — Power BI Project
 
 Overview
+
 This project is a collaborative effort by a team of five software engineers to analyze and visualize HR data using Power BI. The dashboard provides actionable insights into workforce trends, helping HR teams make informed decisions.
 🔍 Key Features
 
