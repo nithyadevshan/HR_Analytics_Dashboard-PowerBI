@@ -31,6 +31,7 @@ Open the .pbix file in Power BI Desktop.
 Connect to your HR dataset or use the sample data provided.
 
 👥 Team Collaboration
+
 Maintained by a team of five contributors. All members participated in data modeling, dashboard design, and documentation. Future updates will include enhancements based on stakeholder feedback.
 
 
